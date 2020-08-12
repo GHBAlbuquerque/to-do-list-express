@@ -21,10 +21,10 @@
                 <input type="checkbox" 
                         onchange= "setTagAsDone(this, '<%= task._id %>' )" <%= task.done ? 'checked' : '' %> /> 
                         <%= task.name %> 
-                <!-- aqui chemo um funcao javascript que vai ler o resultado, atualizar o servidor e depois atualizar a tela. -->
+                <!-- aqui chamo um funcao javascript que vai ler o resultado, atualizar o servidor e depois atualizar a tela. -->
             </div>
 
-            <div class="column is-one-fifth "></div>
+            <div class="column is-one-fifth ">
                 <a href="/tasks/<%= task._id %>?_method=delete" class="button is-danger is-small">Remover</a>
             </div>
         </div>

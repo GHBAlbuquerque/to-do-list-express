@@ -1,0 +1,28 @@
+div.backgroundIndex {
+    content: '';
+    display: block;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../img/rawpixel-633847-unsplash-1302x914.jpg"); 
+    opacity: 0.6;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+section.hero.is-link {
+    background-color: grey;
+}
+
+
+.hero.is-link h1.is-black{
+    color: black;
+    font-weight: bold;
+}
+
+
+.hero.is-link h2.is-black{
+    color: black;   
+    font-weight: 400;
+}
