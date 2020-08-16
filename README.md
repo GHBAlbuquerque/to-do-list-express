@@ -30,6 +30,7 @@ Here are the technologies used in this project.
 >    $ npm install
 * To run the project:
 >    $ npm run dev
+* Open in browser:
 >    go to http://localhost:3000
  
 ## How to use
