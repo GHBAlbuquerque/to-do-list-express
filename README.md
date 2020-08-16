@@ -36,22 +36,22 @@ Here are the technologies used in this project.
 ## How to use
  
 ### 1-) Go to http://localhost:3000 and click 'Ir para Listas de Atividades!'
-![HomeScreen] (https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_home.png)
+![HomeScreen](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_home.png)
 
 ### 2-) Click 'Nova Lista' to create a new TaskList
-![TaskLists] (https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_tasklist.png)
+![TaskLists](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_tasklist.png)
 
 ### 3-) Create a new TaskList by typing any name you want
-![NewTaskList] (https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_newtasklist.png)
+![NewTaskList](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_newtasklist.png)
 
 ### 4-) Click on your TaskList name to view tasks associated to it. To create a new Task, simply click on 'Nova Tarefa'.
-![ViewTaskList] (https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_tasklist_empty.png)
+![ViewTaskList](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_tasklist_empty.png)
 
 ### 5-) Create a new Task by typing any name you want
-![NewTask] (https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_newtask.png)
+![NewTask](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_newtask.png)
 
 ### 6-) Delete tasks by clicking on 'Remover' or mark them as 'done' by using the checkbox.
-![NewTask] (https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_tasks.png)
+![NewTask](https://github.com/GHBAlbuquerque/to-do-list-express/blob/master/public/readme_images%20/sc_tasks.png)
 
  
 ## Features
