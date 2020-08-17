@@ -58,7 +58,7 @@ Here are the technologies used in this project.
  
   - Enjoy a clean and simple-to-use design
   - Create as many TaskLists as you want
-  - List your activities in a organized manner
+  - List your activities in an organized manner
   - Keep track of your tasks as you check them as done
   - Delete activities and TaskLists you don't need anymore
  
